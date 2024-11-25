@@ -19,4 +19,4 @@ Para ejecutar el código, sigue estos pasos:
 Asegúrate de tener un compilador C++ instalado. Puedes usar `g++`:
 
 ```sh
-g++ -o planck_newton planck_newton.cpp
+g++ -o planck_newton Newton2.cpp
